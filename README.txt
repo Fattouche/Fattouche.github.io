@@ -1,3 +1,11 @@
 Alex Fattouche Personal website!
 
-I used a free theme to create this.
+It contains links to:
+
+1. Linkedin
+2. Github
+3. Resume
+4. facebook
+5. Packcity
+
+It also contains information regarding my interests and skills.
